@@ -1,13 +1,12 @@
 <!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Cats</title>
-</head>
-	<header><h1>Сайт, непонятно для чего созданный </h1></header>
 <body>
-	<legend> Навигация </legend> 
-	<section> 
+ <head>
+<meta charset="utf-8">
+</head>
+<header><h1>Сайт, непонятно для чего созданный </h1></header>
+<title>Cats</title>
+<legend> Навигация </legend> 
+<section> 
      <p>
       <ul>
        <li> О месте жительства </li>
